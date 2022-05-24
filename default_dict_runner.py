@@ -12,7 +12,6 @@ def main() -> None:
     print(test_dict['key1'])  # Esto llama al __getitem__
     print(test_dict['key2'])
     print(test_dict['f'])
-    print(test_dict['g'])
 
 
 if __name__ == '__main__':
